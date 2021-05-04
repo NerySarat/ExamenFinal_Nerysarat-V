@@ -13,5 +13,22 @@ int main()
      */
     cout << "Challenge #1" << endl;
     int arreglo[] = {0, 1, 1, 1, 2, 2};  // Empiece con este arreglo ya existente, el docente modificará este arreglo para pruebas
+
+    int contador = 0; 
+
+     
+    for (int x = 0; x < 6 ; x++ )
+    { 
+        contador = arreglo [x]  ; 
+        if (arreglo [x] == contador)
+        {
+             arreglo [x] = 0; 
+        }
+
+    }
+    for (int x = 0; x < 6 ; x++)
+    {
+        cout << "El arreglo es :" << arreglo [x] << endl; 
+    }
     return 0;
 }
