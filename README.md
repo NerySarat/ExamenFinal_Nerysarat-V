@@ -1,5 +1,5 @@
 # ExamenFinal_Nerysarat-V
-Estoy asustado Inge en mate me faltan 5 puntos para zona minima pero 30/30 en el exemen final por fe EMOJICODE: @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+Estoy asustado Inge en mate me faltan 5 puntos para zona minima pero 30/30 en el exemen final por fe EMOJICODE: @octocat :+1: No se como se ponen mas Emojies :+2: :shipit:
 ## Proyecto final 
 
 **Fue una buena experiencia el trabajar en github con mi equipo** 
